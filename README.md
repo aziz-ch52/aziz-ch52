@@ -1,10 +1,13 @@
 <h1 align="center">Hello 👋, I'm Aziz Chharchhodawala</h1>
 <h3 align="center">Future Full Stack Developer | Exploring the World of Front-End & Back-End Technologies</h3>
 
+<p align="center">
+  <img src="https://github.com/aziz-ch52/aziz-ch52/blob/033690cbed56a9a06e7866b59e7333600961f42e/coding1.gif" alt="IMAGE">
+</p>
 
 
 # 🚀 About Me:
-About Me 👋<br>Hello! I'm a BCA student at Sigma University in Vadodara. I have a passion for technology and problem-solving, and I'm constantly learning and evolving in the field of software development. I'm on a journey to become a Full Stack Developer.<br><br>Hobbies & Interests 🎯<br>Programming 💻: I love writing code and solving complex problems.<br>Reading Books 📚: Whether it's tech, fiction, or self-development, I enjoy diving into a good book.<br>Creating Projects 🔧: I enjoy building real-world applications that challenge me and help me learn new technologies.<br>UI/UX Designing 🎨: Crafting beautiful and user-friendly interfaces is something I’m passionate about.<br>Learning New Skills & AI Technologies 🤖: I'm passionate about exploring new skills and emerging technologies, especially in the realm of Artificial Intelligence and Machine Learning.<br>  
+About Me 👋<br>Hello! I'm a BCA student at Sigma University in Vadodara. I have a passion for technology and problem-solving, and I'm constantly learning and evolving in software development. I'm on a journey to become a Full Stack Developer.<br><br>Hobbies & Interests 🎯<br>Programming 💻: I love writing code and solving complex problems.<br>Reading Books 📚: Whether it's tech, fiction, or self-development, I enjoy diving into a good book.<br>Creating Projects 🔧: I enjoy building real-world applications that challenge me and help me learn new technologies.<br>UI/UX Designing 🎨: Crafting beautiful and user-friendly interfaces is something I’m passionate about.<br>Learning New Skills & AI Technologies 🤖: I'm passionate about exploring new skills and emerging technologies, especially in the realm of Artificial Intelligence and Machine Learning.<br>  
 
 Goal 🎯
 <br> I aspire to become a Full Stack Developer, specializing in both front-end and back-end technologies, and contribute to exciting projects that impact the world.
