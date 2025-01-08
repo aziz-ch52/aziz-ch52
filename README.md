@@ -26,7 +26,7 @@ Goal 🎯
 # 📊 GitHub Stats:
 ![aziz-ch52's Stats](https://github-readme-stats.vercel.app/api?username=aziz-ch52&theme=react&show_icons=true&hide_border=false&count_private=false)
 
-![aziz-ch52's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aziz-ch52&theme=react&hide_border=false)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aziz-ch52&theme=blueberry" alt="GitHub Streak" /></a>
 
 ![aziz-ch52's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-ch52&theme=react&show_icons=true&hide_border=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
