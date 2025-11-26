@@ -8,26 +8,22 @@
 ---
 
 # 🚀 About Me
-### 👋 **Introduction**
+### 👋 Introduction
 I'm a **BCA student at Sigma University, Vadodara**, passionate about **Data Analytics, Business Intelligence, and Data Visualization**.  
-I enjoy uncovering insights hidden in data and turning raw information into actionable business strategies.
+I enjoy uncovering insights hidden in data and converting raw information into actionable business strategies.
 
-### 🎯 **Interests & Skills**
+### 🎯 Interests & Skills
 - **Data Analytics 📊** – Cleaning, transforming, and analyzing datasets for insights.  
-- **Data Visualization 🎨** – Building impactful dashboards with **Power BI**, **Excel**, and **Python**.  
-- **Programming 💻** – Using **Python**, **SQL**, and automation scripts to streamline data workflows.  
-- **Business Intelligence 💡** – Understanding KPIs and metrics for informed decision-making.  
-- **Machine Learning Basics 🤖** – Exploring predictive analytics, regression, and clustering.
-
-### 🔭 **Career Goal**
-My mission is to **bridge business and technology through data**, helping organizations make smarter, evidence-based decisions.  
-I aspire to grow into a **Data Analyst / BI Specialist**, contributing to data-driven innovation in **finance, marketing, and operations**.
+- **Data Visualization 🎨** – Building dashboards using **Power BI**, **Excel**, and **Python**.  
+- **Programming 💻** – Python, SQL, and automation scripts.  
+- **Business Intelligence 💡** – Understanding KPIs for decision-making.  
+- **Machine Learning Basics 🤖** – Regression & clustering.
 
 ---
 
 # 💻 Tech Stack
 
-### 🧠 **Data Analysis & Visualization**
+### 🧠 Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -38,13 +34,13 @@ I aspire to grow into a **Data Analyst / BI Specialist**, contributing to data-d
 
 ---
 
-### 🗄️ **Databases**
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🌐 **Web Development**
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -55,7 +51,7 @@ I aspire to grow into a **Data Analyst / BI Specialist**, contributing to data-d
 
 ---
 
-### ⚙️ **Development & Version Control**
+### ⚙️ Development & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -64,37 +60,39 @@ I aspire to grow into a **Data Analyst / BI Specialist**, contributing to data-d
 
 ---
 
-### 🧩 **Tools & Platforms**
+### 🧩 Tools & Platforms
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aziz-ch52&theme=react&show_icons=true&hide_border=false&count_private=true)
+# 📊 GitHub Stats (NO ERRORS)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aziz-ch52&theme=blueberry" alt="GitHub Streak" /></a>
+### ⭐ Stats
+![Aziz's GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=aziz-ch52&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-ch52&theme=react&show_icons=true&hide_border=false&layout=compact)
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=aziz-ch52&theme=blueberry)
+
+### 🧠 Top Languages
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=aziz-ch52&layout=compact&theme=react)
 
 ---
 
 ## 🎓 Learning Roadmap
-- ✅ Master **Excel, SQL, and Python for Data Analysis**  
-- ✅ Explore **Power BI & Tableau for Visualization**  
-- ✅ Strengthen **Statistics, Probability & Data Interpretation**  
-- ✅ Work on **Real-World Data Projects & Case Studies**  
-- ✅ Learn **Predictive Analytics & Data Storytelling**
+- Master **Excel, SQL, and Python for Data Analysis**  
+- Explore **Power BI & Tableau**  
+- Build strong understanding of **Statistics & Data Interpretation**  
+- Work on **Real-World Data Projects**  
+- Learn **Predictive Analytics & Data Storytelling**
 
 ---
 
 ## 🤝 Let’s Connect & Collaborate!
-If you share a passion for **data, analytics, or storytelling**, I’d love to connect and collaborate on exciting projects! 🚀  
-
 📧 **Email:** azizchharchhoda52@gmail.com  
-📌 **GitHub:** [aziz-ch52](https://github.com/aziz-ch52)  
-📸 **Instagram:** [aziz_ch52b](https://instagram.com/aziz_ch52b)
+📌 **GitHub:** https://github.com/aziz-ch52  
+📸 **Instagram:** https://instagram.com/aziz_ch52b  
 
 ---
 
