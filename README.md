@@ -70,18 +70,22 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 # 📊 GitHub Stats
 
 ### ⭐ Stats
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aziz-ch52&show_icons=true&theme=react)
+![Aziz's GitHub Stats](https://github-readme-stats-nine-gray-79.vercel.app/api?username=aziz-ch52&show_icons=true&theme=react)
 
 ### 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aziz-ch52&theme=blueberry)
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-ch52&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats-nine-gray-79.vercel.app/api/top-langs/?username=aziz-ch52&layout=compact&theme=react)
 
 ---
 
 ## 🎓 Learning Roadmap
-- Master **Excel, SQL, and Python for Data Analysis** - Explore **Power BI & Tableau** - Build strong understanding of **Statistics & Data Interpretation** - Work on **Real-World Data Projects** - Learn **Predictive Analytics & Data Storytelling**
+- Master **Excel, SQL, and Python for Data Analysis**
+- Explore **Power BI & Tableau**
+- Build strong understanding of **Statistics & Data Interpretation**
+- Work on **Real-World Data Projects**
+- Learn **Predictive Analytics & Data Storytelling**
 
 ---
 
