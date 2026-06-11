@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aziz Chharchhodawala</h1>
-<h3 align="center">Aspiring Data Analyst | Passionate About Data, Insights & Business Intelligence</h3>
+<h3 align="center">Data Analyst | Transforming Raw Data into KPI Dashboards | SQL • Python • Power BI</h3>
 
 <p align="center">
   <img src="https://github.com/aziz-ch52/aziz-ch52/blob/033690cbed56a9a06e7866b59e7333600961f42e/coding1.gif" alt="Coding">
