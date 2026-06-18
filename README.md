@@ -80,12 +80,13 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 
 ---
 
-## 🎓 Learning Roadmap
-- Master **Excel, SQL, and Python for Data Analysis**
-- Explore **Power BI & Tableau**
-- Build strong understanding of **Statistics & Data Interpretation**
-- Work on **Real-World Data Projects**
-- Learn **Predictive Analytics & Data Storytelling**
+## 📚 Learning & Development
+
+- Advanced Data Analysis with Excel, SQL, and Python
+- Data Visualization and Dashboard Development (Power BI & Tableau)
+- Statistical Analysis and Business Intelligence
+- End-to-End Data Analytics Projects
+- Data Storytelling and Insight Communication
 
 ---
 
