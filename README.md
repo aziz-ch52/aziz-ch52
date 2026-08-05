@@ -72,8 +72,8 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 ### ⭐ Stats
 ![Aziz's GitHub Stats](https://github-readme-stats-nine-gray-79.vercel.app/api?username=aziz-ch52&show_icons=true&theme=react)
 
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=aziz-ch52&theme=blueberry)
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=aziz-ch52&theme=blueberry&hide_border=true)
 
 ### 🧠 Top Languages
 ![Top Languages](https://github-readme-stats-nine-gray-79.vercel.app/api/top-langs/?username=aziz-ch52&layout=compact&theme=react)
