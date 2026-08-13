@@ -96,10 +96,6 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 - 📌 **Portfolio:** https://aziz-ch52.github.io/azizchharchhodawala.com/  
 - 🤝 **LinkedIn:** https://www.linkedin.com/in/aziz-chharchhodawala-b2b971353
 
----
-
-<h3 align="center"><i>“Turning Data Into Decisions. Insights Into Impact.”</i> 📊✨</h3>
-
 
 ---
 
@@ -110,3 +106,6 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 
 
 ---
+
+
+<h3 align="center"><i>“Turning Data Into Decisions. Insights Into Impact.”</i> 📊✨</h3>
