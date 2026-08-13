@@ -99,3 +99,14 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 ---
 
 <h3 align="center"><i>“Turning Data Into Decisions. Insights Into Impact.”</i> 📊✨</h3>
+
+
+---
+
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aziz-ch52&bg_color=0D1117&color=61DAFB&line=61DAFB&point=C9D1D9&area=true&hide_border=true)
+
+
+
+---
