@@ -94,7 +94,7 @@ I enjoy uncovering insights hidden in data and converting raw information into a
 
 - 📧 **Email:** azizchharchhoda52@gmail.com  
 - 📌 **Portfolio:** https://aziz-ch52.github.io/azizchharchhodawala.com/  
-- 🤝 **LinkedIn:** https://www.linkedin.com/in/aziz-chharchhodawala-b2b971353
+- 🤝 **LinkedIn:** www.linkedin.com/in/aziz-chharchhodawala
 
 
 ---
